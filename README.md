@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, world! I am Fauzi Wahas 👋
+
+I am a Software Engineer, currently working as Software Engineer II at [BukuWarung](https://bukuwarung.com/).
 
 <!--
 **thatgloomyafternoon/thatgloomyafternoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
