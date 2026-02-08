@@ -2,6 +2,9 @@
 
 I am a Software Engineer currently working as Software Engineer II at [BukuWarung](https://bukuwarung.com/) (YC S20).
 
+I have been a software engineer since 2013, which was when I got my first payment for designing and implementing an Atmel-AVR-based device for a project in college.
+From that point forward, I have gone through various experiences, from low-level programming, tool development, frontend game programming, backend game development, IoT backend development, and now I am currently handling lending platform development for a fintech company.
+
 ### My works
 
 * Supply Chain Management Service ([Demo](https://gloomyafternoon.xyz/) & [Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Personal Project) A full-stack supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
