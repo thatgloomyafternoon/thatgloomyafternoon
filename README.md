@@ -5,6 +5,10 @@ I am a Software Engineer currently working as Software Engineer II at [BukuWarun
 ### My works
 
 * Supply Chain Management Service ([Demo](https://gloomyafternoon.xyz/) & [Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Personal Project) A full-stack supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
+* Custom-POS
+* Custom-HRMS
+* IoT-Backend
+* Battle-City
 
 ### My stacks
 
