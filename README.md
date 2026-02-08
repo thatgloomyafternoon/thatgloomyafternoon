@@ -1,9 +1,10 @@
 ## Hello, world! I am Fauzi Wahas 👋
 
-I am a Software Engineer currently working as Software Engineer II at [BukuWarung](https://bukuwarung.com/) (YC S20).
+I am a Software Engineer II at [BukuWarung](https://bukuwarung.com/) (YC S20).
 
-I have been a software engineer since 2013, which was when I got my first payment for designing and implementing an Atmel-AVR-based device for a project in college.
-From that point forward, I have gone through various experiences, from low-level programming, tool development, frontend game programming, backend game development, IoT backend development, and now I am currently handling lending platform development for a fintech company.
+My journey began in 2013 when I received my first payment for designing and implementing an Atmel-AVR-based device for a college project. From that point forward, my career has spanned a diverse range of domains—including low-level programming, tool development, frontend and backend game development, and IoT.
+
+Currently, I specialize in lending platform development within the fintech space. Since 2018, I have focused on backend engineering, with a deep specialization in Java since 2020.
 
 ### My works
 
