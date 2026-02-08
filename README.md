@@ -2,7 +2,7 @@
 
 I am a Software Engineer currently working as Software Engineer II at [BukuWarung](https://bukuwarung.com/) (YC S20).
 
-### My works (outside company)
+### My works
 
 * Supply Chain Management Service ([Demo](https://gloomyafternoon.xyz/) & [Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Personal Project) A full-stack supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
 * Custom-POS (WIP)
