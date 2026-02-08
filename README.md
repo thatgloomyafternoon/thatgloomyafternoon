@@ -6,6 +6,12 @@ I am a Software Engineer currently working as Software Engineer II at [BukuWarun
 
 * Supply Chain Management Service ([Demo](https://gloomyafternoon.xyz/) & [Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Personal Project) A full-stack supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
 
+### My stacks
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
 <!--
 **thatgloomyafternoon/thatgloomyafternoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
