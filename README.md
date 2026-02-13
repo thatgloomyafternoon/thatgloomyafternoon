@@ -5,7 +5,7 @@
   <a href="https://github.com/thatgloomyafternoon" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-I am a Software Engineer II at [BukuWarung](https://bukuwarung.com/) (YC S20).
+I am a Software Engineer currently working as Software Engineer II at [BukuWarung](https://bukuwarung.com/) (YC S20).
 
 My journey began in 2013 when I received my first payment for designing and implementing an Atmel-AVR-based device for a college project. From that point forward, my career has spanned a diverse range of domains—including low-level programming, tool development, frontend and backend game development, and IoT.
 
