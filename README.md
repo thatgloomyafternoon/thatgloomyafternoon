@@ -13,7 +13,7 @@ Currently, I specialize in lending platform development within the fintech space
 
 ### My works
 
-* Supply Chain Management Service ([Demo](https://gloomyafternoon.xyz/) & [Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Personal Project) A full-stack supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
+* Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Personal Project) A full-stack supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
 * Custom-POS (WIP)
 * Custom-HR (WIP)
 * IoT-Backend (WIP)
