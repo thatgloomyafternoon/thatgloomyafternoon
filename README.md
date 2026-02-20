@@ -7,7 +7,7 @@
 
 I am a Software Engineer currently working as Software Engineer II at [BukuWarung](https://bukuwarung.com/) (YC S20).
 
-My journey began in 2013 when I received my first payment for designing and implementing an Atmel-AVR-based device for a college project. From that point forward, my career has spanned a diverse range of domains—including low-level programming, tool development, frontend and backend game development, and IoT.
+My journey began in 2012 when I successfully flashed an AT89S51 module with a LED-blink firmware, which had me locked in and led to my first payment in 2013 for designing and implementing an Atmel-AVR-based device for a college project. The project later resulted in a paper (http://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_0117_5623.pdf). From that point forward, my career has spanned a diverse range of domains—including low-level programming, tool development, frontend and backend game development, and IoT.
 
 Currently, I specialize in lending platform development within the fintech space. Since 2018, I have focused on backend engineering, with a deep specialization in Java since 2020.
 
