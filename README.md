@@ -20,6 +20,7 @@ Currently, I specialize in lending platform development within the fintech space
 * Battle-City (WIP)
 
 ### My stacks
+URL for the badges are obtained from this [source](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -38,6 +39,8 @@ Currently, I specialize in lending platform development within the fintech space
   <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 <!--
