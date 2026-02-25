@@ -15,7 +15,7 @@ Currently, I specialize in lending platform development within the fintech space
 
 * Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Personal Project) A full-stack supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
 * Custom-POS ([Repo](https://github.com/thatgloomyafternoon/custom-pos)) — A simple point-of-sales with menu management, order management, and transaction history.
-* Custom-HR (WIP)
+* Custom-HR ([Repo](https://github.com/thatgloomyafternoon/dbro-backend)) — A custom HR service with attendance, payroll, and outlet management.
 * IoT-Backend (WIP)
 * Battle-City (WIP)
 
