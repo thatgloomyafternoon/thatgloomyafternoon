@@ -11,7 +11,7 @@ My journey began in 2012 when I successfully flashed an AT89S51 module with LED-
 
 Currently, I specialize in lending platform development within the fintech space. Since 2018, I have focused on backend engineering, with a deep specialization in Java since 2020.
 
-### My works
+### My public works
 
 * Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Full-stack) A supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
 * Custom-POS ([Repo](https://github.com/thatgloomyafternoon/custom-pos)) — (Full-stack) A simple point-of-sales with menu management, order management, and transaction history.
