@@ -13,11 +13,13 @@ Currently, I specialize in lending platform development within the fintech space
 
 ### My works
 
-* Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — A full-stack supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
-* Custom-POS ([Repo](https://github.com/thatgloomyafternoon/custom-pos)) — A simple point-of-sales with menu management, order management, and transaction history.
-* Custom-HR ([Repo](https://github.com/thatgloomyafternoon/dbro-backend)) — A custom HR service with attendance, payroll, and outlet management.
-* IoT-Backend (WIP)
-* Battle-City (WIP)
+* Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Full-stack) A supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
+* Custom-POS ([Repo](https://github.com/thatgloomyafternoon/custom-pos)) — (Full-stack) A simple point-of-sales with menu management, order management, and transaction history.
+* Custom-HR ([Repo](https://github.com/thatgloomyafternoon/dbro-backend)) — (Backend) A custom HR service with attendance, payroll, and outlet management.
+* System Checking App — (Desktop) (WIP)
+* To-Do App — (Full-stack) (WIP)
+* IoT-Backend — (Backend) (WIP)
+* Battle-City — (Game) (WIP)
 
 ### My stacks
 URL for the badges are obtained from this [source](https://github.com/alexandresanlim/Badges4-README.md-Profile)
